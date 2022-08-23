@@ -2,7 +2,7 @@
   "name": "ssharma5/openemr-dispatcher",
   "description": "OpenEMR Custom Module Skeleton Starter Project",
   "type": "openemr-module",
-  "version": "1.0.0"
+  "version": "1.0.0",
   "license": "GPL-3.0",
   "authors": [
     {
